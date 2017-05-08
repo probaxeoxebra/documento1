@@ -15,5 +15,5 @@ O que pasa é que hai moitas "versións" de Markdown e hai que utilizar a que en
 A documentación oficial de GitHub de Markdown é [Writing on GitHub](https://help.github.com/categories/writing-on-github/).
 
 
-Liña
+Liña \\
 partida.
