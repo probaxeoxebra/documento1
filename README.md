@@ -13,3 +13,7 @@ Markdown foi creado John Gruber no 2004 e considérase a definición oficial. Aq
 O que pasa é que hai moitas "versións" de Markdown e hai que utilizar a que entenda o teu sistema. Polo que parece GitHub utiliza kramdown que ten unha documentación en [Quick Reference](https://kramdown.gettalong.org/quickref.html).
 
 A documentación oficial de GitHub de Markdown é [Writing on GitHub](https://help.github.com/categories/writing-on-github/).
+
+
+Liña
+partida.
