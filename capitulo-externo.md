@@ -1,4 +1,4 @@
-# Capítulo en ficheiro externo
+# Capítulos en ficheiros externos
 
 Cada capítulo irá nun ficheiro externo.
 
