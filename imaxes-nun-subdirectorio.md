@@ -27,4 +27,5 @@ Para enlazar unha imaxe, hai que comezar cunha admiración pechada. A continuaci
  A diferencia do apartado anterior, hai que poñer o enlace completo á imaxe.
  
  `\!\[Hermann de perfil\]\(http://www-gap.dcs.st-and.ac.uk/~history/Thumbnails/Minkowski.jpg \"De perfil\"\)`
+ 
  ![Hermann de perfil](http://www-gap.dcs.st-and.ac.uk/~history/Thumbnails/Minkowski.jpg "De perfil")
