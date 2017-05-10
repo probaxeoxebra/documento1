@@ -16,6 +16,6 @@ Para eliminar un ficheiro hai que entrar no mesmo. Ao lado da icona de editar, a
 
 ## Enlazar a unha imaxe no subdirectorio de imaxes
 
-Hai que poñer un enlace como se fai habitualmente, antepoñendo ao nome do ficheiro, o nome do subdirectorio seguido dunha barra /, `imaxes/debuxo.png`.
+Para enlazar unha imaxe, hai que usar unha admiración pechada no principio. Hai que poñer un enlace como se fai habitualmente, antepoñendo ao nome do ficheiro, o nome do subdirectorio seguido dunha barra /, `imaxes/debuxo.png`.
 
-[Hermann](imaxes/200px-De_Raum_zeit_Minkowski_Bild.jpg)
+![Hermann](imaxes/200px-De_Raum_zeit_Minkowski_Bild.jpg)
