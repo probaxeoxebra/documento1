@@ -18,14 +18,14 @@ Para eliminar un ficheiro hai que entrar no mesmo. Ao lado da icona de editar, a
 
 Para enlazar unha imaxe, hai que comezar cunha admiración pechada. A continuacin entre corchetes pónse un nome para imaxe que aparecerá cando ao sistema lle custa cargar a imaxe e tarda un pouco. Despois ponse entre parénteses o nome do subdirectorio, seguindo dunha barra / e o nome do ficheiro da imaxe. Se se quere poñer un título á imaxe para que apareza cando pasamos co rato por riba, antes de pechar o paréntese, deixar un espazo e poñer entre comiñas dobres o título.
 
-`\!\[Hermann\]\(imaxes/200px-De_Raum_zeit_Minkowski_Bild.jpg \"Hermann Minkowski\"\)`
+`![Hermann](imaxes/200px-De_Raum_zeit_Minkowski_Bild.jpg "Hermann Minkowski")`
 
 ![Hermann](imaxes/200px-De_Raum_zeit_Minkowski_Bild.jpg "Hermann Minkowski")
  
- ## Enlazar a unha imaxe externa
+## Enlazar a unha imaxe externa
  
- A diferencia do apartado anterior, hai que poñer o enlace completo á imaxe.
+A diferencia do apartado anterior, hai que poñer o enlace completo á imaxe.
  
- `\!\[Hermann de perfil\]\(http://www-gap.dcs.st-and.ac.uk/~history/Thumbnails/Minkowski.jpg \"De perfil\"\)`
- 
- ![Hermann de perfil](http://www-gap.dcs.st-and.ac.uk/~history/Thumbnails/Minkowski.jpg "De perfil")
+`![Hermann de perfil](http://www-gap.dcs.st-and.ac.uk/~history/Thumbnails/Minkowski.jpg "De perfil")`
+
+![Hermann de perfil](http://www-gap.dcs.st-and.ac.uk/~history/Thumbnails/Minkowski.jpg "De perfil")
