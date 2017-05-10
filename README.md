@@ -28,14 +28,18 @@ A estrutura clásica dun documento é:
 
 * Último capítulo.
 
-Portada
-: Nun sistema dixital podemos prescindir de ter portada.
+### __Portada__
 
-Limiar, índice e introdución
-: Poderíanse fusionar nun único ficheiro. As veces a unha pequena introdución segue o índice do documento.
+Nun sistema dixital podemos prescindir de ter portada.
 
-Capítulo
-: Os diferentes capítulos irán en ficheiros distintos. En funcin da complexidade dos capítulos, a súa vez poderíanse dividir en varios ficheiros e así sucesivamente.
+### __Limiar, índice e introdución__
+
+Poderíanse fusionar nun único ficheiro. As veces a unha pequena introdución segue o índice do documento.
+
+### __Capítulo__
+
+Os diferentes capítulos irán en ficheiros distintos. En funcin da complexidade dos capítulos, a súa vez poderíanse dividir en varios ficheiros e así sucesivamente.
+
 
 O resto deste documento atópase nos seguintes enlaces:
 
